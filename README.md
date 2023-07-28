@@ -1,3 +1,4 @@
+![logo](https://github.com/KHUSHI6691SAINITECH/KHUSHI6691SAINITECH/blob/main/khushiphoto.png)
 <h1 align="center">Hi 👋, I'm Khushi Saini</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/KHUSHI6691SAINITECH/KHUSHI6691SAINITECH/assets/140510372/06b61c0d-b724-4084-a703-9f2df1f5bc88">
