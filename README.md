@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/KHUSHI6691SAINITECH/KHUSHI6691SAINITECH/assets/140510372/06b61c0d-b724-4084-a703-9f2df1f5bc88">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi6691sainitech&label=Profile%20views&color=0e75b6&style=flat" alt="khushi6691sainitech" /> </p>
 
-- 🌱 I’m currently learning **Full Stack java developer course n**
+- 🌱 I’m currently learning **Full Stack java developer course **
 
 - 💬 Ask me about **HTML,JAVA,C,C++,DSA,CSS,SPRING BOOT**
 
